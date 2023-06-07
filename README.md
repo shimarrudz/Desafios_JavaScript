@@ -36,4 +36,5 @@ Se tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à von
 
 ![Descrição da imagem](/)
 ![img01](https://github.com/shimarrudz/Desafios_JavaScript/assets/104167280/9156fdf4-286c-467c-9130-a72bdc68683a)
-
+![img02](https://github.com/shimarrudz/Desafios_JavaScript/assets/104167280/f868980c-e6d9-463d-ac2b-b9fea7d3e428)
+![img03](https://github.com/shimarrudz/Desafios_JavaScript/assets/104167280/71413212-da01-4b29-ba12-1d22e0698adf)

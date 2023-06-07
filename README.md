@@ -5,20 +5,21 @@ Fui proposto a realizar 11 desafios de JavaScript, onde eu deveria desenvolver m
 
 ## 2 - Trajetória do desenvolvimento deste projeto:   :zap:
 
-Gostaria de compartilhar um pouco da trajetória do desenvolvimento desde projeto.
+-Gostaria de compartilhar um pouco da trajetória do desenvolvimento desde projeto.
+
   -Primeiramente analisei todos os desafios, reparei seus possíveis diferencias, e a forma correta que deveriam ser desenvolvidos. Com isso, anotei no meu bloco de anotações One Note, quais exercícios eu poderia aplicar os difirencias, como o teste unitário, TypeScript e POO.
   
-  -Comecei desenvolvendo os 11 desafios utilizando JavaScript puro, evitando ao máximo não utilizar métodos nativos, explicando os códigos linha a linha.
+  -Comecei desenvolvendo os 11 desafios utilizando JavaScript puro, evitando ao máximo utilização dos métodos nativos, explicando os códigos linha a linha.
   
   -Após finalizar todos, busquei implementar os diferenciais que havia anotado, apliquei o teste unitário em todos os desafios, para garantir a qualidade do código, e POO no desafio 4 e no desafio 11, pois utilizavam objetos no contexto.
   
-  -Revisei desafio por desafio, aplicando os testes, e conferindo uma última vez se todos esavam corretos.
+  -Revisei desafio por desafio, aplicando os testes, e conferindo uma última vez se todos estavam corretos.
   
   -Pude partir para o TypeScript, como ainda estou aprendendo os conceitos de TypeScript foi um desafio ao começo do desenvolvimento, mas nada que uma persistência não resolva : joy:.
   
   -Consegui finalizar todos os exercícios feitos em ts, depois disso apenas precisei compilar todos, e testei novamente os resultados um por um.
   
-  -Assim finalizei meu projeto, colocando no github e produzindo este readME agora.
+  -Assim finalizei meu projeto, colocando no github e produzindo este readME.
 
 ## 3- Estrutura do Projeto :file_folder:
 

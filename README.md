@@ -45,16 +45,16 @@ Existem duas pastas principais ao clonar este projeto:
 2. **Desafios TypeScript**: Esta pasta foi desenvolvida após a realização da pasta "Desafios". Aqui, pude desenvolver e estruturar um projeto em TypeScript. A pasta `src` contém duas subpastas, "desafioTS", onde estão armazenados todos os arquivos feitos em TypeScript, e o arquivo "desafioCompilados", onde foram armazenados os arquivos compilados para JavaScript. Utilizei o arquivo "tsconfig.json" para configurar o caminho dos arquivos compilados.
           
       ./projeto-typescript
-          │ package.json
-          │ package-lock.json
-          │ tsconfig.json
-          └───src
-          │ └───desafioCompilados
-          │ └───desafiosTS
-          └───node_modules
-          │ │ package-lock
-          │ └───typescript
-          │ └───.bin
+│ package.json
+│ package-lock.json
+│ tsconfig.json
+└───src
+│ └───desafioCompilados
+│ └───desafiosTS
+│ └───node_modules
+│ │ package-lock
+│ └───typescript
+│ └───.bin
          
 
 ## 4- Como executar os desafios e suas dependências :gear:
@@ -73,9 +73,9 @@ Existem duas pastas principais ao clonar este projeto:
 
 - Após entrar no repositório do projeto "projeto-typescript", abra o terminal e digite `npm install`.
 - As bibliotecas utilizadas no projeto serão armazenadas na pasta "node_modules".
-- Verifique as alterações feitas no arquivo "tsconfig.json", como por exemplo o caminho dos desafios compilados.
+- Verifique as alterações feitas no arquivo `tsconfig.json`, como por exemplo o caminho dos desafios compilados.
 - Utilize o comando `npx tsc`, que é usado para executar o compilador TypeScript. Após a compilação, só precisamos executar o arquivo com o caminho do próprio arquivo.
-- Os arquivos JavaScript compilados podem ser executados normalmente com o node por exemplo "node desafio01.js".
+- Os arquivos JavaScript compilados podem ser executados normalmente com o node por exemplo `node desafio01.js`.
 
 
 

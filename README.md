@@ -3,7 +3,7 @@
 Fui proposto a realizar 11 desafios de JavaScript, onde eu deveria desenvolver minhas habilidades voltadas para o raciocínio lógico no back-end. Consegui realizar os desafios explorando TypeScript, testes unitários, POO, entre outros tópicos. Me diverti bastante desenvolvendo este desafio! :rocket:
 
 
-## 2 - Trajetória do desenvolvimento deste projeto:: zap:
+## 2 - Trajetória do desenvolvimento deste projeto:   : zap:
 
 Gostaria de compartilhar um pouco da trajetória do desenvolvimento desde projeto.
   -Primeiramente analisei todos os desafios, reparei seus possíveis diferencias, e a forma correta que deveriam ser desenvolvidos. Com isso, anotei no meu bloco de anotações One Note, quais exercícios eu poderia aplicar os difirencias, como o teste unitário, TypeScript e POO.

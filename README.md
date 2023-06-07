@@ -7,11 +7,17 @@ Fui proposto a realizar 11 desafios de JavaScript, onde eu deveria desenvolver m
 
 Gostaria de compartilhar um pouco da trajetória do desenvolvimento desde projeto.
   -Primeiramente analisei todos os desafios, reparei seus possíveis diferencias, e a forma correta que deveriam ser desenvolvidos. Com isso, anotei no meu bloco de anotações One Note, quais exercícios eu poderia aplicar os difirencias, como o teste unitário, TypeScript e POO.
+  
   -Comecei desenvolvendo os 11 desafios utilizando JavaScript puro, evitando ao máximo não utilizar métodos nativos, explicando os códigos linha a linha.
+  
   -Após finalizar todos, busquei implementar os diferenciais que havia anotado, apliquei o teste unitário em todos os desafios, para garantir a qualidade do código, e POO no desafio 4 e no desafio 11, pois utilizavam objetos no contexto.
+  
   -Revisei desafio por desafio, aplicando os testes, e conferindo uma última vez se todos esavam corretos.
+  
   -Pude partir para o TypeScript, como ainda estou aprendendo os conceitos de TypeScript foi um desafio ao começo do desenvolvimento, mas nada que uma persistência não resolva : joy:.
+  
   -Consegui finalizar todos os exercícios feitos em ts, depois disso apenas precisei compilar todos, e testei novamente os resultados um por um.
+  
   -Assim finalizei meu projeto, colocando no github e produzindo este readME agora.
 
 ## 3- Estrutura do Projeto :file_folder:
@@ -77,7 +83,11 @@ Existem duas pastas principais ao clonar este projeto:
 - Utilize o comando `npx tsc`, que é usado para executar o compilador TypeScript. Após a compilação, só precisamos executar o arquivo com o caminho do próprio arquivo.
 - Os arquivos JavaScript compilados podem ser executados normalmente com o node por exemplo `node desafio01.js`.
 
+## Dependências
 
+- Node.js v14.17.3
+- Jest v27.0.6
+- TypeScript v4.3.5
 
 ## Contato :mailbox:
 

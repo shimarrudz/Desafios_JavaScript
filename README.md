@@ -44,17 +44,17 @@ Existem duas pastas principais ao clonar este projeto:
 
 2. **Desafios TypeScript**: Esta pasta foi desenvolvida após a realização da pasta "Desafios". Aqui, pude desenvolver e estruturar um projeto em TypeScript. A pasta `src` contém duas subpastas, "desafioTS", onde estão armazenados todos os arquivos feitos em TypeScript, e o arquivo "desafioCompilados", onde foram armazenados os arquivos compilados para JavaScript. Utilizei o arquivo "tsconfig.json" para configurar o caminho dos arquivos compilados.
           
-      ./projeto-typescript
-│ package.json
-│ package-lock.json
-│ tsconfig.json
-└───src
-│ └───desafioCompilados
-│ └───desafiosTS
-│ └───node_modules
-│ │ package-lock
-│ └───typescript
-│ └───.bin
+     ./projeto-typescript
+          │ package.json
+          │ package-lock.json
+          │ tsconfig.json
+          └───src
+          │ └───desafioCompilados
+          │ └───desafiosTS
+          │ └───node_modules
+          │ │ package-lock
+          │ └───typescript
+          │ └───.bin
          
 
 ## 4- Como executar os desafios e suas dependências :gear:

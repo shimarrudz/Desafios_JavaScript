@@ -67,7 +67,7 @@ Existem duas pastas principais ao clonar este projeto:
 - Instale as dependências executando o comando `npm install` e `npm install jest --save-dev` para baixar a biblioteca "jest".
 - Após isso, é possível executar o seguinte código no terminal: `npx jest`, que executará todos os testes encontrados.
 - Também é possível executar manualmente apenas o teste unitário que deseja consultar como por exemplo `npx jest codigo.test.js`.
-- Já os arquivos JavaScript podem ser executados normalmente com o node por exemplo `node desafio01.js`.
+- Já os arquivos JavaScript podem ser executados normalmente com o node por exemplo `node .\Desafio01\desafio01.js`.
 
 ### Pasta "Desafios TypeScript"
 

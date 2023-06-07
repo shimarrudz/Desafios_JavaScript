@@ -33,3 +33,7 @@ Se tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à von
 
 
 # Anotações e rascunhos feitos para facilitar o desenvolvimento
+
+![Descrição da imagem](/)
+![img01](https://github.com/shimarrudz/Desafios_JavaScript/assets/104167280/9156fdf4-286c-467c-9130-a72bdc68683a)
+

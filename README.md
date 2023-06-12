@@ -15,7 +15,7 @@ Fui proposto a realizar 11 desafios de JavaScript, onde eu deveria desenvolver m
   
   -Revisei desafio por desafio, aplicando os testes, e conferindo uma última vez se todos estavam corretos.
   
-  -Pude partir para o TypeScript, como ainda estou aprendendo os conceitos de TypeScript foi um desafio ao começo do desenvolvimento, mas nada que uma persistência não resolva : joy:
+  -Pude partir para o TypeScript, como ainda estou aprendendo os conceitos de TypeScript foi um desafio ao começo do desenvolvimento, mas nada que uma persistência não resolva kkkkkk.
   
   -Consegui finalizar todos os exercícios feitos em ts, depois disso apenas precisei compilar todos, e testei novamente os resultados um por um.
   
